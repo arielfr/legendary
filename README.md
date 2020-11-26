@@ -5,6 +5,8 @@ Esta aplicación interpresta un archivo de subtitulos `srt` y genera un clip de 
 ## Intención
 Este proyecto fue creado con el proposito de seguir probando la capacidad de `NodeJS` para realizar absolutamente cualquier tarea. Y también porque me gusta la serie "How I Met Your Mother".
 
+[![Legendary](https://img.youtube.com/vi/6H78sadIfTw/0.jpg)](https://www.youtube.com/watch?v=6H78sadIfTw)
+
 ## ¿Cómo funciona?
 
 Mediante la utilización de la librería `subtitles-parser` se interpretan los subtitulos para enteder el momento exacto en el que un personaje empieza y termina de decir una frase y luego con `ffmpeg` se realiza un recorte del video.
