@@ -1,0 +1,26 @@
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+#output
+output
+
+# Trash
+.DS_Store
+.idea
+.fury
+*.iml
+
+# Dynamically processed files
+reports
+coverage
+build
+i18n
+
+# Mocks
+mocks/development/
+
+.vs/*
+.vscode/*

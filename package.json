@@ -1,0 +1,19 @@
+{
+  "name": "legendary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Ariel Rey",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "@ffprobe-installer/ffprobe": "^1.1.0",
+    "cli-progress": "^3.8.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "moment": "^2.29.1",
+    "subtitles-parser": "0.0.2"
+  }
+}
